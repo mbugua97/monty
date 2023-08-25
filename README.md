@@ -1,1 +1,1 @@
-0x19. C - Stacks, Queues - LIFO, FIFO
+@Mbugua 97 0x19 C - stacks,Queue-LIFO FIFO
